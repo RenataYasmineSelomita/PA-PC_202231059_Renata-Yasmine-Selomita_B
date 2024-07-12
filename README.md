@@ -104,3 +104,6 @@ Hasil dari median filtering sering kali terlihat lebih "bersih" dan bebas dari n
 
 ## Kesimpulan:
 Kedua metode filtering ini, mean dan median, memiliki kelebihan dan kekurangan masing-masing yang membuatnya sesuai untuk skenario yang berbeda. Pilihan antara keduanya sangat tergantung pada jenis noise yang ada dalam gambar dan hasil akhir yang diinginkan. Median filter umumnya lebih disukai untuk menghilangkan noise "salt and pepper" dan mempertahankan tepi, sementara mean filter lebih baik untuk mengurangi noise Gaussian dan menghaluskan gambar secara umum. Dalam prakteknya, pemilihan metode filtering yang tepat sering kali memerlukan eksperimen dan penyesuaian berdasarkan karakteristik spesifik dari gambar yang sedang diproses dan tujuan akhir dari pemrosesan tersebut.
+
+# Jurnal
+[Jurnal.pdf]
